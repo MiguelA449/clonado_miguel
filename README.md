@@ -14,4 +14,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Creado por nuestro Señor JesuCristo
 * El Espíritu Santo es nuestro consolador, es el adelanto de la totalidad de lo prometido.
+* Dios escucha a quien lo llama.
+
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
